@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on personal projects/ improving my skills.
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with my resume.
+- 📫 My personal websitedlalexa.dev
+- ⚡ Fun fact: I like to golf, climb, and play pickleball in my free time.
 <!--
 **dlalexa/dlalexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
